@@ -1,5 +1,5 @@
 const messages = [
-    "wow jas i see what it is",
+    "wow jas i see how it is",
     "OI OI OI",
     "please 宝宝",
     "WHO PRESS THAT!?",
@@ -8,7 +8,7 @@ const messages = [
     "I gonna crash out:(",
     "old bf out...",
     "JK wow u press it>:(",
-    "宝宝:("
+    "JUST PRESS THE GREEN BUTTON"
 ];
 
 let messageIndex = 0;
